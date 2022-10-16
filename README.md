@@ -1,5 +1,5 @@
 # Optimization-Drug-Design-by-Hybrid-Islamic-n-Evolution-Medicine-for-Covid-19-n-New-Var-with-GTVeXGA
-We continue from our previous years' research with entitle, 
+The research topics above, we continue from our previous years' research with entitle, 
 "Design Framework as a Prototype of Islamic Medicine Engine to any Disease Especially for Covid-19 based Al-Qur'an and Hadith Using Meta-Deep AI and Particle Swarm Optimization"
 
 Authors:
