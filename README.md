@@ -12,6 +12,6 @@ Authors:
 7. Tamara Gusti Ebtavanny, S.Farm., M.Farm., Apt. (tamara.gusti@ub.ac.id), Faculty of Medicine, Universitas Brawijaya (UB)
 8. Zanna Annisa Nur Azizah Fareza, (zannaannisa89@student.ub.ac.id), Faculty of Computer Science (Filkom), Universitas Brawijaya (UB)
 
-
+Semoga Berkah dan Bermanfaat. Aamiin :)
 Warm Regards,
 Big Thanks for All & Our Teams :)
