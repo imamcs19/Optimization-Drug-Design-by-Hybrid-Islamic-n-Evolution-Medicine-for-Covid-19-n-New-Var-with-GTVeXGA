@@ -14,3 +14,5 @@ Authors:
 Semoga Berkah dan Bermanfaat. Aamiin :)
 Warm Regards,
 Big Thanks for All & Our Teams :)
+
+The 3rd International Conferences on Engineering, Technology and Social Science (ICONETOS 2022), “Toward a Sustainable Future for Interdisciplinary Synergy of Education, Technology, and Social Science”, Malang, November 1st, 2022, Hybrid seminar
