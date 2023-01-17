@@ -1,4 +1,7 @@
 # Optimization-Drug-Design-by-Hybrid-Islamic-n-Evolution-Medicine-for-Covid-19-n-New-Var-with-GTVeXGA
+
+Title: Optimization of Drug Design Composition by Hybrid Islamic and Evolutionary Medicine for Covid-19 and Its New Variants Using Geometric Time Variants Extreme Genetic Algorithm 
+
 The research topics above, we continue from our previous years' research with three entitle/topics, namely: 1. "Big Data App in Silico to Determining Modelling Covid-19 Medicinal by Optimizing Dosage of Compound Mixture with Deep AI based ELM PSO Using Spark " x 2. "Design Framework as a Prototype of Islamic Medicine Engine to any Disease Especially for Covid-19 based Al-Qur'an and Hadith Using Meta-Deep AI and Particle Swarm Optimization" x 3. "Smart Big Data App for Determining Modeling of Human Genome, Virus and Medicinal Compounds to Healing any Disease Especially for Covid-19 by meta-Deep AI Reinforcement Learning Using Core Engine Container System"
 
 Authors:
